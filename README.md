@@ -1,3 +1,6 @@
+This repo is for an example Insurance2 smart contract used in this video tutorial:
+
+Below is the dev-quickstart-00v3 repo readme: 
 # Quickstart for Integrating with UMA Optimistic Oracle V3
 <a href="https://docs.uma.xyz/developers/optimistic-oracle"><img alt="OO" src="https://miro.medium.com/v2/resize:fit:1400/1*hLSl9M87P80A1pZ9vuTvyA.gif" width=600></a>
 
